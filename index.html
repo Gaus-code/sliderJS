@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>реализация слайдера на js</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main class="main">
+        <div class="main__container">
+            <div class="main__wrapper">
+                <div class="main__text description">
+                    <div class="description__header">
+                        <div class="description__h1">
+                            <h1>Completed<br>projects</h1>
+                            <span class="line"></span>
+                        </div>
+                        <p>
+                            Only a small part of the work performed by our company is presented<br>on the site. For 14 years on in the construction<br>market we have made happy more than 1000 families
+                        </p>
+                    </div>
+                    <div class="description__list">
+                        <div class="description__item">
+                            <h2 class="item__article">City:</h2>
+                            <p class="item__text city-js text-js">Rostov-on-Don<br>LCD admiral</p>
+                        </div>
+                        <div class="description__item">
+                            <h2 class="item__article">apartment area:</h2>
+                            <p class="item__text area-js text-js">81 m2</p>
+                        </div>
+                        <div class="description__item">
+                            <h2 class="item__article">Repair time:</h2>
+                            <p class="item__text time-js text-js">3.5 months</p>
+                        </div>
+                        <div class="description__item">
+                            <h2 class="item__article">Repair Cost:</h2>
+                            <p class="item__text">Upon request</p>
+                        </div>
+                    </div>
+                    <div class="slider__wrapper">
+                        <button class="slider__btn-prev slider__left-arrow"></button>
+                        <div class="slider__dot active"></div>
+                        <div class="slider__dot"></div>
+                        <div class="slider__dot"></div>
+                        <button class="slider__btn-next slider__right-arrow"></button>
+                    </div>
+                </div>
+            </div>
+            <div class="main__slider">
+                <div class="slider__links">
+                    <button class="town active-link">
+                        <a class="link" href="#">Rostov-on-Don, Admiral</a>
+                    </button>
+                    <button class="town">
+                        <a class="link" href="#">Sochi Thieves</a>
+                    </button>
+                    <button class="town">
+                        <a class="link" href="#">Rostov-on-Don Patriotic</a>
+                    </button>
+                </div>
+                <div class="slider">
+                    <div class="slider__line">
+                        <img src="img/image 1.png" alt="first slide" class="slider__img">
+                        <img src="img/image 2.png" alt="second slide" class="slider__img">
+                        <img src="img/image 3.png" alt="third slide" class="slider__img">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script src="./js/script.js"></script>
+</body>
+</html>

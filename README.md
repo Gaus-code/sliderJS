@@ -4,5 +4,4 @@
 * Стрелки (переключают слайды по кольцу. То есть после слайда №3 снова пойдет слайд №1);
 * Кружочки между стрелками (включают нужный слайд);
 * Ссылки сверху слайдера (включают нужный слайд).
-## ссылка на макет в Figma
-[Link]([http://a.com](https://www.figma.com/file/D4rkmpfIjEC3GwYBPgE1vd/Slider?node-id=0%3A1&mode=dev)https://www.figma.com/file/D4rkmpfIjEC3GwYBPgE1vd/Slider?node-id=0%3A1&mode=dev)
+  ([ссылка на макет в figma](https://www.figma.com/file/D4rkmpfIjEC3GwYBPgE1vd/Slider?node-id=0%3A1&mode=dev)https://www.figma.com/file/D4rkmpfIjEC3GwYBPgE1vd/Slider?node-id=0%3A1&mode=dev)

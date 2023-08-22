@@ -5,5 +5,5 @@
 * Кружочки между стрелками (включают нужный слайд);
 * Ссылки сверху слайдера (включают нужный слайд).
 
-## для реализации был использован макет 
-[ссылка на макет в figma](https://www.figma.com/file/D4rkmpfIjEC3GwYBPgE1vd/Slider?node-id=0%3A1&mode=dev)https://www.figma.com/file/D4rkmpfIjEC3GwYBPgE1vd/Slider?node-id=0%3A1&mode=dev)
+## для реализации был использован чужой макет 
+[ссылка на макет в figma](https://www.figma.com/file/D4rkmpfIjEC3GwYBPgE1vd/Slider?node-id=0%3A1&mode=dev)
